@@ -9,7 +9,7 @@ Horiseon Marketing agency needed their exsisting site to be refactored. They nee
 
 ![Screenshot-1](https://github.com/akelstrom/horiseon-marketing/blob/master/Screen%20Shot%202020-10-17%20at%2011.47.10%20AM.png)
 
-![Screenshot-2] (https://github.com/akelstrom/horiseon-marketing/blob/master/Screen%20Shot%202020-10-17%20at%2011.52.10%20AM.png)
+![Screenshot-2](https://github.com/akelstrom/horiseon-marketing/blob/master/Screen%20Shot%202020-10-17%20at%2011.52.10%20AM.png)
 
-![Screenshot-3] (https://github.com/akelstrom/horiseon-marketing/blob/master/Screen%20Shot%202020-10-17%20at%2011.52.25%20AM.png)
+![Screenshot-3](https://github.com/akelstrom/horiseon-marketing/blob/master/Screen%20Shot%202020-10-17%20at%2011.52.25%20AM.png)
 
